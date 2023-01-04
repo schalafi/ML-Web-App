@@ -22,4 +22,5 @@ Upload an image
 
 Output an image with bounding boxes and confidence for the detected objects.
 You can control the confidence thw model will use to detect objects.
+
 ![output image](https://user-images.githubusercontent.com/118856089/210655451-11d8e9bc-9254-4bb3-97d8-8d9174f0496a.jpg)
